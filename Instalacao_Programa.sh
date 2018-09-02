@@ -1,6 +1,6 @@
 #!/bin/sh
 
-hoje = $(date +%d%m%Y)
+hoje=$(date +%d%m%Y)
 touch /home/raquel/log_MyScript
 
 echo hoje >> /home/raquel/log_MyScript
